@@ -4,7 +4,7 @@ A responsive online storefront for browsing phones, tablets, and accessories. Bu
 
 ## Live Preview
 
-[Phone Catalog Demo](https://frontend-i9xqged7v-five-ends.vercel.app)
+[Phone Catalog Demo](https://phone-catalog-tan.vercel.app)
 
 ## Design Reference
 
